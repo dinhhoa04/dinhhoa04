@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Hello%2C%20dinhhoa04-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
   <h1>🌌 Welcome to my universe!</h1>
-  <h3>Backend Developer | Java & .NET Enthusiast | Open to Collaboration</h3>
+  <h3>Backend Developer | Tech Enthusiast | Open to Collaboration</h3>
   
   <br>
   <p>
@@ -16,10 +16,10 @@
 
 ### 💻 About Me
 
-[cite_start]I am **Cao Dinh Hoa**[cite: 1]. I am a passionate Backend Developer dedicated to building high-performance management systems and scalable web applications.
+I am **Cao Dinh Hoa** I am a passionate Backend Developer dedicated to building high-performance management systems and scalable web applications.
 
-* [cite_start]🎯 **Current Focus:** Developing applications using **Java Spring Boot** [cite: 23, 27][cite_start], **C# (.NET)**, and **ReactJS**[cite: 26].
-* [cite_start]📚 **Learning Next:** Deep diving into **Cloud Solutions (AWS/GCP)** and **DevOps** workflows (**Docker**, **CI/CD**)[cite: 7].
+* 🎯 **Current Focus:** Developing applications using **Java Spring Boot**, **C# (.NET)**, and **ReactJS**.
+*  📚 **Learning Next:** Deep diving into **Cloud Solutions (AWS/GCP)** and **DevOps** workflows (**Docker**, **CI/CD**).
 * 🤝 **Collaborations:** Open to discussing **Web Architecture**, **Microservices**, and **Database Optimization**.
 
 <br>
@@ -111,13 +111,3 @@
 
 </div>
 
----
-
-### 🐍 Fun Fact: Commit Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dinhhoa04/dinhhoa04/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
