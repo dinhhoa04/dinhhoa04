@@ -69,7 +69,7 @@ I am **Cao Dinh Hoa** I am a passionate Backend Developer dedicated to building 
 ### 🔧 My Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,cpp,js,html,css,spring,dotnet,react,bootstrap,mysql,postman,mssql,docker,git,github,maven,idea,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,js,html,css,spring,dotnet,react,bootstrap,mysql,postman,docker,git,github,maven,idea,vscode&perline=9" />
   <br><br>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
