@@ -16,11 +16,11 @@
 
 ### 💻 About Me
 
-[cite_start]Tôi là **Cao Đình Hòa** [cite: 1][cite_start], hiện là sinh viên tại **Trường Đại học Khoa học - Đại học Huế**[cite: 4]. Tôi có niềm đam mê mạnh mẽ với phát triển Backend và xây dựng các hệ thống quản lý hiệu quả.
+[cite_start]I am **Cao Dinh Hoa**[cite: 1]. I am a passionate Backend Developer dedicated to building high-performance management systems and scalable web applications.
 
-* [cite_start]🎯 **Current Focus:** Phát triển ứng dụng với **Java Spring Boot** [cite: 23, 27][cite_start], **C# (.NET)** và **ReactJS**[cite: 26].
-* [cite_start]📚 **Learning Next:** Tìm hiểu sâu về **Cloud Solutions (AWS/GCP)** và quy trình **DevOps** (Docker, CI/CD).
-* 🤝 **Collaborations:** Luôn sẵn sàng thảo luận về các dự án **Web Architecture**, **Microservices**, và **Database Optimization**.
+* [cite_start]🎯 **Current Focus:** Developing applications using **Java Spring Boot** [cite: 23, 27][cite_start], **C# (.NET)**, and **ReactJS**[cite: 26].
+* [cite_start]📚 **Learning Next:** Deep diving into **Cloud Solutions (AWS/GCP)** and **DevOps** workflows (**Docker**, **CI/CD**)[cite: 7].
+* 🤝 **Collaborations:** Open to discussing **Web Architecture**, **Microservices**, and **Database Optimization**.
 
 <br>
 
@@ -32,7 +32,7 @@
   <a href="mailto:caodinhhoa2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+  <a href="https://www.linkedin.com/in/dinhhoa04/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -115,7 +115,7 @@
 
 ### 🐍 Fun Fact: Commit Snake
 <div align="center">
-  <img src="https://github.com/dinhhoa04/dinhhoa04/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/dinhhoa04/dinhhoa04/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 <div align="center">
