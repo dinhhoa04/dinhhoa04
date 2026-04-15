@@ -42,7 +42,6 @@ I am **Cao Dinh Hoa** I am a passionate Backend Developer dedicated to building 
 </div>
 
 ---
-
 ### 🚀 Tech Universe
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -69,13 +68,12 @@ I am **Cao Dinh Hoa** I am a passionate Backend Developer dedicated to building 
 ### 🔧 My Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,cpp,js,html,css,spring,dotnet,react,bootstrap,mysql,sqlserver,docker,git,github,maven,idea,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,js,html,css,spring,dotnet,react,bootstrap,mysql,sqlserver,docker,git,github,maven,idea,vscode,postman&perline=9" />
   <br><br>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
 </div>
-
 ---
 
 ### 📊 GitHub Activity Graph
